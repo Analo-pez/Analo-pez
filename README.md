@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hola, espero te guste mi perfil de Github 👋
 
 <!--
 **Analo-pez/Analo-pez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
+- 💻 Soy Ana López, desarrolladora Front-end
+- 🏡 Vivo en Madrid
+- 👣 Tengo un camino largo por recorrer en este sector
+- 🕵️‍ Estoy buscando una oportunidad laboral
+- 🌱 Para crecer en esta profesión
+- 🚀 Hasta el infinito y más allá!
+
+😄 Mientras tanto, iré colgando mis repositorios y proyectos con distintas tecnologías! 
+
+
