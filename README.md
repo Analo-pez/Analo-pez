@@ -12,6 +12,7 @@
 - 🌱 Para crecer en esta profesión
 - 🚀 Hasta el infinito y más allá!
 
-😄 Mientras tanto, iré colgando mis repositorios y proyectos con distintas tecnologías! 
+Aquí iré subiendo mis repositorios y proyectos con distintas tecnologías! 😄 
+
 
 
