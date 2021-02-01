@@ -10,7 +10,7 @@
 - 👣 Tengo un camino largo por recorrer en este sector
 - 🕵️‍ Estoy buscando una oportunidad laboral
 - 🌱 Para crecer en esta profesión
-- 🚀 Hasta el infinito y más allá!
+- 🚀 
 
 Aquí iré subiendo mis repositorios y proyectos con distintas tecnologías! 😄 
 
