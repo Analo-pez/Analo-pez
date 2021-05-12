@@ -8,8 +8,7 @@
 - 💻 Soy Ana López, desarrolladora Front-end
 - 🏡 Vivo en Madrid
 - 👣 Tengo un camino largo por recorrer en este sector
-- 🕵️‍ Estoy buscando una oportunidad laboral
-- 🌱 Para crecer en esta profesión
+- 🌱 y crecer como programadora
 - 🚀 
 
 Aquí iré subiendo mis repositorios y proyectos con distintas tecnologías! 😄 
